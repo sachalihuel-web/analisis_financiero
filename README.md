@@ -1,24 +1,36 @@
-# Plataforma de Análisis de Inversiones
+# 📊 Plataforma de Análisis de Inversiones
 
-Aplicación desarrollada en Python y Streamlit para:
+Sistema cuantitativo de análisis financiero y optimización de portafolios desarrollado en Python y Streamlit.
 
-- análisis financiero
-- optimización de portafolios
-- simulación de inversiones
-- visualización de riesgo y retorno
+---
 
-## Tecnologías
+# 🚀 Descripción
 
-- Python
-- Streamlit
+Esta plataforma permite analizar activos financieros utilizando métricas cuantitativas, simulaciones y optimización de portafolios basada en el modelo de Markowitz.
+
+El sistema descarga datos financieros en tiempo real desde Yahoo Finance y genera recomendaciones automáticas según retorno, volatilidad y relación riesgo/beneficio.
+
+---
+
+# 🏦 Funcionalidades
+
+- 📈 Análisis financiero de activos
+- 📊 Ranking profesional de inversiones
+- ⚖️ Optimización de portafolios (Markowitz)
+- 💰 Simulación de inversión
+- 📉 Cálculo de volatilidad y riesgo
+- 🧠 Recomendaciones automáticas
+- 🌐 Dashboard web interactivo con Streamlit
+- ☁️ Deploy online en Streamlit Cloud
+
+---
+
+# 🛠 Tecnologías utilizadas
+
+- Python 3
 - Pandas
 - NumPy
-- yFinance
 - Matplotlib
-
-## Funciones
-
-- Ranking de activos
-- Optimización Markowitz
-- Simulación de capital
-- Dashboard interactivo
+- Streamlit
+- yFinance
+- Git & GitHub
